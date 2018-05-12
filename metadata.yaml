@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31220
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Mann_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29744#Kristy-s-Rainy-Day-Picnic
 gutenberg_issued: '2009-08-21'
 gutenberg_type: Text
 identifiers:
